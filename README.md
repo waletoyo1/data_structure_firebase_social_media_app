@@ -12,3 +12,5 @@ https://medium.com/@gilg/from-sql-to-firebase-how-to-structure-the-db-for-a-soci
 https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
 
 https://stackoverflow.com/questions/46979375/firestore-how-to-structure-a-feed-and-follow-system/52153332
+
+https://medium.com/@garyalexanderpiong/building-a-working-instagram-clone-using-flutter-and-firebase-1c9f9bb960ef
