@@ -14,3 +14,7 @@ https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
 https://stackoverflow.com/questions/46979375/firestore-how-to-structure-a-feed-and-follow-system/52153332
 
 https://medium.com/@garyalexanderpiong/building-a-working-instagram-clone-using-flutter-and-firebase-1c9f9bb960ef
+
+//Youtube flutter/firebase social app video
+
+https://www.youtube.com/playlist?list=PL78sHffDjI77iyUND7TrUOXud9NSf0eCr
