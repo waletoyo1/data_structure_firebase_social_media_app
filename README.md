@@ -22,3 +22,5 @@ https://www.youtube.com/playlist?list=PL78sHffDjI77iyUND7TrUOXud9NSf0eCr
 
 //combining two stream builders together (useful for like and unlike, follow/unfollow)
 https://codewithandrea.com/videos/rx-dart-by-example-combine-latest/
+
+https://stackoverflow.com/questions/53287717/flutter-merge-two-firestore-streams-into-a-single-stream
