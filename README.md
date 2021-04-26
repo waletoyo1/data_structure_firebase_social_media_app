@@ -18,3 +18,7 @@ https://medium.com/@garyalexanderpiong/building-a-working-instagram-clone-using-
 //Youtube flutter/firebase social app video
 
 https://www.youtube.com/playlist?list=PL78sHffDjI77iyUND7TrUOXud9NSf0eCr
+
+
+//combining two stream builders together (useful for like and unlike, follow/unfollow)
+https://codewithandrea.com/videos/rx-dart-by-example-combine-latest/
