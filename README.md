@@ -24,3 +24,8 @@ https://www.youtube.com/playlist?list=PL78sHffDjI77iyUND7TrUOXud9NSf0eCr
 https://codewithandrea.com/videos/rx-dart-by-example-combine-latest/
 
 https://stackoverflow.com/questions/53287717/flutter-merge-two-firestore-streams-into-a-single-stream
+
+
+
+//follow and unfollow user
+https://www.youtube.com/watch?v=C5MOABNXiX8
